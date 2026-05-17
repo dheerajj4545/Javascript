@@ -26,4 +26,4 @@ let state;
 // object
 
 console.log(typeof undefined); // undefined
-console.log(typeof null); // object
+console.log(typeof null); // object (it is a bug or we can say mistake of javascript)
